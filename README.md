@@ -1,8 +1,8 @@
 # marks-display
-A program that plots my marks and displays in gtk
-Can add and delete marks entries
+A program that plots my marks and displays them in gtk.
+Can add and delete mark entries
 
-[![Screenshot](./screenshot.png)]
+![Screenshot](./screenshot.png)
 
 ## Prerequisites
 - [SBCL](https://www.sbcl.org)
